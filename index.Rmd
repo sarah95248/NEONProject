@@ -7,7 +7,8 @@ output:
     theme: cerulean
 ---
 
-# My Github Repo Homepage
+# My Github Repo Page
 
+This is the homepage to my GitHub site.
 
-
+![ ](welcome.gif)
