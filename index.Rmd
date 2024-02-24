@@ -1,5 +1,5 @@
 ---
-title: "My Repo Site"
+title: "Sarah's Repo Site"
 author: "Sarah Belcher"
 date: "2024-02-22"
 output:
@@ -7,10 +7,10 @@ output:
     theme: cerulean
 ---
 
-# My Github Repo Page
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# My Github Repo Homepage
+
+
+
 
 
 
