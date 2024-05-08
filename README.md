@@ -1,5 +1,5 @@
 ---
-title: "Sarah's Repo Site"
+title: "NEON Project"
 author: "Sarah Belcher"
 output:
   html_document:
