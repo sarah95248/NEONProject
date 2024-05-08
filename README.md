@@ -8,6 +8,9 @@ output:
 
 # My Github Repo Page
 
-This is the homepage to my GitHub site.
+This is the homepage to my GitHub site. 
 
 ![ ](welcome.gif)
+
+
+Link to my project: 
